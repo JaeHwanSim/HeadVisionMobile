@@ -7,7 +7,7 @@ class App extends React.Component {
       <SafeAreaView style={styles.container}>
         <View style={styles.mainContent}>
           <Text style={styles.title}>의료용 영상 스트리밍</Text>
-          <Text style={styles.subtitle}>프로젝트 초기 설정 완료 확인3</Text>
+          <Text style={styles.subtitle}>프로젝트 초기 설정 완료 확인5</Text>
         </View>
       </SafeAreaView>
     );
